@@ -351,7 +351,7 @@
                 Save your best chart to images/ folder and reference it here.
                 Example: src="Business dashboard.jpg"
             -->
-            <img class="project-visual" src="https://via.placeholder.com/900x350?text=Your+Chart+Here" alt="Business dashboard.jpg">
+            <img class="project-visual" src="Business dashboard.jpg" alt="Business dashboard.jpg">
             <div class="project-content">
                 <h3>POWERBI-BUSINESS-DASHBOARD</h3>
                 <!-- Lead with your key finding — this is what hooks readers -->
