@@ -331,10 +331,11 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            I am a Mathematician turned Data Analytics with 2 years of experience in creating Excel and PowerBi templates for data collection and visulaization and creating clear actionable insights from messy data.
+            I am skilled in designing Excel/Google Sheet templates and dashboards for professional business analyis. I also apply statistical and analytical proficiency into unearthening performance and identifying key decision-making trends.
+
         </p>
         <p>
-            I have been practicing Data Analytics in the FMCG sector for about 2 years now and this has been a solid base for me as I pierce into other sectors. I am adding core python and machine learning skillsets to my arsenal.
+            I have been practicing Data Analytics in the FMCG sector for about 2 years now and this has been a solid base for me as I pierce into other sectors.
         </p>
     </section>
 
