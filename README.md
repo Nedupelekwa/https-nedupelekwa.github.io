@@ -358,11 +358,11 @@
                     PowerBi Business Dashboard for B & D Company comparing sales and profit performances across different product segments and region, from 2020 to 2023
                 </p>
                 <div class="project-tools">
-                    <span>Python</span>
-                    <span>pandas</span>
-                    <span>Matplotlib</span>
+                    <span>Excel</span>
+                    <span>Power Query</span>
+                    <span>PowerBi</span>
                 </div>
-                <a class="project-link" href=https://github.com/Nedupelekwa/POWERBI-BUSINESS-DASHBOARD.git>View analysis on GitHub →</a>
+                <a class="project-link" href="https://github.com/Nedupelekwa/POWERBI-BUSINESS-DASHBOARD">View analysis on GitHub →</a>
             </div>
         </div>
 
