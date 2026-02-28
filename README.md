@@ -316,8 +316,8 @@
             Upload a photo to your repo and use: src="images/photo.jpg"
         -->
         <img src="https://via.placeholder.com/120" alt="Your photo">
-        <h1>Hi, I'm [Your Name]</h1>
-        <p class="tagline">Data Analyst | [Describe the kind of analysis you do — e.g., "I turn messy business data into clear, actionable insights using SQL, Python, and Tableau."]</p>
+        <h1>Hi, I'm Chinedu Elekwa </h1>
+        <p class="tagline">Data Analyst |"I turn messy business data into clear, actionable insights using SQL, Python, and PowerBi and Looker Studio."]</p>
         <div class="toolkit-preview">
             <span>SQL</span>
             <span>Python</span>
@@ -331,14 +331,10 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            [Write 2-3 sentences about yourself. What's your background?
-            What drew you to data analysis? What kinds of questions
-            do you like exploring?]
+            I am a Mathematician turned Data Analytics with 2 years of experience in creating Excel and PowerBi templates for data collection and visulaization and creating clear actionable insights from messy data.
         </p>
         <p>
-            [What are you working toward? What kind of analyst role are
-            you building skills for? Be specific about the domains or
-            industries that interest you.]
+            I have been practicing Data Analytics in the FMCG sector for about 2 years now and this has been a solid base for me as I pierce into other sectors. I am adding core python and machine learning skillsets to my arsenal.
         </p>
     </section>
 
