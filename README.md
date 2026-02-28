@@ -315,8 +315,8 @@
             ✏️ Replace with your photo.
             Upload a photo to your repo and use: src="images/photo.jpg"
         -->
-        src=photo.jpeg
-        <img src="https://via.placeholder.com/120" alt="Your photo">
+        src=photo.jpeg   alt="Your photo"
+        <img src="https://via.placeholder.com/120" src=photo.jpeg>
         <h1>Hi, I'm Chinedu Elekwa </h1>
         <p class="tagline">Data Analyst |I turn messy business data into clear, actionable insights using SQL, Python, and PowerBi and Looker Studio.</p>
         <div class="toolkit-preview">
