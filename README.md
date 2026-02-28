@@ -316,7 +316,7 @@
             Upload a photo to your repo and use: src="images/photo.jpg"
         -->
         <img src="https://via.placeholder.com/120" alt="Your photo">
-        <src="photo.jpeg">
+        <src=photo.jpeg>
         <h1>Hi, I'm Chinedu Elekwa </h1>
         <p class="tagline">Data Analyst |I turn messy business data into clear, actionable insights using SQL, Python, PowerBi and Looker Studio.</p>
         <div class="toolkit-preview">
