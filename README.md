@@ -415,9 +415,9 @@
         <h2>Contact</h2>
         <p>Interested in working together or have questions about my analysis?</p>
         <div class="contact-links">
-            <a href="mailto:your@email.com">Email</a>
-            <a href="https://github.com/YOUR-USERNAME">GitHub</a>
-            <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+            <a href="mailto:chinedupelekwa@gmail.com">Email</a>
+            <a href="https://github.com/Nedupelekwa">GitHub</a>
+            <a href="https://www.linkedin.com/in/chinedu-elekwa">LinkedIn</a>
         </div>
     </section>
 
