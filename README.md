@@ -315,7 +315,7 @@
             ✏️ Replace with your photo.
             Upload a photo to your repo and use: src="photo.jpeg"
         -->
-        <img src="https://via.placeholder.com/120" alt="photo.jpg">
+        <img src="photo.jpeg" alt="photo.jpg">
         <h1>Hi, I'm Chinedu Elekwa </h1>
         <p class="tagline">Data Analyst |I turn messy business data into clear, actionable insights</p>
         <div class="toolkit-preview">
