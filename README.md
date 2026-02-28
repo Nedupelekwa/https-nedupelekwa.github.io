@@ -313,9 +313,9 @@
     <div class="hero">
         <!--
             ✏️ Replace with your photo.
-            Upload a photo to your repo and use: src="images/photo.jpg"
+            Upload a photo to your repo and use: src="photo.jpeg"
         -->
-        <img src="https://via.placeholder.com/120" alt="src=photo.jpg">
+        <img src="https://via.placeholder.com/120" alt="photo.jpg">
         <h1>Hi, I'm Chinedu Elekwa </h1>
         <p class="tagline">Data Analyst |I turn messy business data into clear, actionable insights</p>
         <div class="toolkit-preview">
@@ -331,11 +331,11 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            I am skilled in designing Excel/Google Sheet templates and dashboards for professional business analyis. I also apply statistical and analytical proficiency into unearthening performance and identifying key decision-making trends.
+            I am skilled in designing Excel/Google Sheet templates and dashboards for professional business analyis. I also apply statistical and analytical proficiency into unearthening business performance and identifying key decision-making trends.
 
         </p>
         <p>
-            I have been practicing Data Analytics in the FMCG sector for about 2 years now and this has been a solid base for me as I pierce into other sectors.
+            I have been practicing Data Analytics in the FMCG sector for about 2 years now while working with Tech Academies as Data Analytics Mentor. These have made me an asset for businesses as a trained and highly-performing data analyst.
         </p>
     </section>
 
@@ -348,9 +348,9 @@
             <!--
                 ✏️ Replace with your chart/visualization image.
                 Save your best chart to images/ folder and reference it here.
-                Example: src="images/sales-by-region.png"
+                Example: src="Business dashboard.jpg"
             -->
-            <img class="project-visual" src="https://via.placeholder.com/900x350?text=Your+Chart+Here" alt="Project visualization">
+            <img class="project-visual" src="https://via.placeholder.com/900x350?text=Your+Chart+Here" alt="Business dashboard.jpg">
             <div class="project-content">
                 <h3>POWERBI-BUSINESS-DASHBOARD</h3>
                 <!-- Lead with your key finding — this is what hooks readers -->
