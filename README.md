@@ -351,18 +351,18 @@
             -->
             <img class="project-visual" src="https://via.placeholder.com/900x350?text=Your+Chart+Here" alt="Project visualization">
             <div class="project-content">
-                <h3>[Project Title]</h3>
+                <h3>POWERBI-BUSINESS-DASHBOARD</h3>
                 <!-- Lead with your key finding — this is what hooks readers -->
-                <p class="project-finding">Key finding: [Your most interesting finding with a specific number — e.g., "3 product subcategories account for 60% of all returns"]</p>
+                <p class="project-finding">Key finding: +24.5 % YoY Sales from 2021 to 2022</p>
                 <p class="project-description">
-                    [1-2 sentences: What data did you analyze? What question were you trying to answer?]
+                    PowerBi Business Dashboard for B & D Company comparing sales and profit performances across different product segments and region, from 2020 to 2023
                 </p>
                 <div class="project-tools">
                     <span>Python</span>
                     <span>pandas</span>
                     <span>Matplotlib</span>
                 </div>
-                <a class="project-link" href="https://github.com/YOUR-USERNAME/your-project-repo">View analysis on GitHub →</a>
+                <a class="project-link" href=https://github.com/Nedupelekwa/POWERBI-BUSINESS-DASHBOARD.git>View analysis on GitHub →</a>
             </div>
         </div>
 
